@@ -15,6 +15,10 @@ This Android app demonstrates various clipping techniques using the Canvas API. 
 - Skewed text example
 - Quick reject example
 
+## Screenshots
+
+![Screenshot 1](app/src/main/res/screenshots/clipping1.jpg)
+
 ## Usage
 
 The main functionality is implemented in the `ClippedView` class, and the app's main activity (`MainActivity`) sets the content view to an instance of this view.
